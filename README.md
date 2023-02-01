@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 14-year-old aspiring full-stack developer from the Philippines. I'm currently learning rust and building more projects with react + typescript for experience and improvements. I use arch btw.
+I'm a 14-year-old aspiring software engineer from the Philippines. I'm currently learning rust and building more projects with react + typescript for experience and improvements. I use arch btw.
 
 
 # 💻 Tech Stack:

@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Cayle
-A 14-year-old aspiring software engineer from the Philippines.
+A 14-year-old aspiring software engineer from the Philippines. This year, I would like to contribute to more open source projects.
 ##### About me
 - 🔭 I’m currently working on [itsmyvim]() 
 - 🌱 I’m currently learning rust 

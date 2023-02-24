@@ -9,5 +9,5 @@ A 14-year-old aspiring software engineer from the Philippines. This year, I woul
 - ⚡ Fun fact: I use arch btw 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,rust,html,css,)](https://skillicons.dev)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=caycun&show_icons=true)  
+
 

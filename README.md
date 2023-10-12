@@ -15,4 +15,4 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caycun&hide=html,css&theme=tokyonight&layout=compact)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caycun&show_icons=true&locale=en" alt="caycun" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=caycun&show_icons=true&locale=en&theme=tokyonight" alt="caycun" /></p>

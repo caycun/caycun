@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Cayle</h1>
-<h3 align="center">An aspiring software engineer from the Philippines</h3>
 
 [![An image of @caycun's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/caycun)](https://holopin.io/@caycun)
 
